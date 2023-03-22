@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shooter2d:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shooter2d_jar</output-path>
+    <root id="archive" name="Shooter2d.jar">
+      <element id="module-output" name="Shooter2d" />
+    </root>
+  </artifact>
+</component>
