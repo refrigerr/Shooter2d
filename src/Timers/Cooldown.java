@@ -13,6 +13,7 @@ public class Cooldown {
         lastTimer = System.currentTimeMillis();
         isRunning = true;
     }
+    //commnet
     public boolean isReady(){
         if(actionTimer < cooldown){
             return false;
